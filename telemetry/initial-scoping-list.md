@@ -1,0 +1,19 @@
+Devices potentially available for telemetry audit in lab:
+- opnsense
+- fortigate
+- fortiswitch
+- fortimanager
+- fortianalyzer
+- proxmox host
+- windows admin desktop
+- securityonion
+- wazuh
+- kali purple
+- freepbx
+- dvwa
+- owasp juice
+- metasploitable
+- detectionlab
+- mitre caldera
+- atomic red team
+- game of active directory (GOAD)
