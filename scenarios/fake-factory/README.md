@@ -1,6 +1,6 @@
-This project relates to theorycrafting the detection engineering and some of the security work for a non-existent Managed Security Services Provider, "Fake-MSSP".
+This project relates to theorycrafting the detection engineering and some of the security work for a non-existent factory that makes widgets, "Fake-Factory".
 
-This project folder is expected to grow over time, as I return to the lab and add extra workloads to it. The aim of this project is to simulate doing part-time work for Fake-MSSP as a contractor.
+This project folder is expected to grow over time, as I return to the lab and add extra workloads to it. The aim of this project is to simulate doing part-time work for Fake-Factory as a contractor.
 
 
 Project Phases:
